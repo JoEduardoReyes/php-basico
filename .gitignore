@@ -1,7 +1,6 @@
 # Custom
 
 /screenshots
-.vscode
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,macos,linux
@@ -58,6 +57,7 @@ Temporary Items
 /.vscode
 .vscode
 .vscode/*
+.vscode/settings.json
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
